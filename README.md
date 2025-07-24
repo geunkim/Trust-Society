@@ -1,5 +1,4 @@
 # Trust Society
 
 
-## [Digital Identity in AI Environment](./Digital_Identity_for_AI)
-
+## [Digital Identity in AI Environment](./Digital-Identity-for-AI/README.md)
