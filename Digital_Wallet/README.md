@@ -47,9 +47,20 @@ EUDI 지갑 참조 구현은 다양한 비즈니스에서 재 사용할 수 있�
 
 ###### Signing Apps and Services
 * Trust Providr Signier
-
-
-
+  - Trust Provider Signer는 서버 측 컴포넌트롤 EUDI Wallet 생태계에서 Trust List 및 관련 객체에 대한 서명 역할을 수행
+  - 주요 기능
+    * Trust List에 대한 디지털 서명 생성
+      - EU 내 각 Member State 또는 신뢰 가능한 기관이 제공하는 Trust List(e.g. trusted issuers, verifier lists 등)를 전자적으로 서명
+      - EUDI Wallet이나 다른 서비스가 해당 리소스의 무결성과 출처 신뢰성을 검증할 수 있도록 보장
+    * Trust Anchor에 대한 서명 발행
+      - Trust Provider가 인증한 Trust Anchor (예: 인증된 Issuer의 공개 키 등)에 대해 서명
+      - 이 Anchor가 공식적이고 검증된 신뢰 주체임을 증명
+    * API 제공
+      - 외부에서 신뢰할 수 있는 객체를 등록하거나, 서명 요청을 전송할 수 있도록 RESTful API 제공
+    * 서명 프로파일 및 키 관리
+      - 서명을 위한 키는 내부적으로 PKCS#11 (HSM) 또는 파일 기반 Keystore를 통해 관리
+      - 서명 알고리즘: ECDSA, RSA, 등 유럽 eIDAS 프로파일에 부합하는 형식 사용
+  
 
 ## Usecase of EUDI Wallet
 
