@@ -4,7 +4,9 @@ This repository was created to investigate and organizae information and source 
 
 * [Open-source code of the wallet now published](https://ec.europa.eu/digital-building-blocks/sites/display/EUDIGITALIDENTITYWALLET/Open-source+code+of+the+wallet+now+published)
 
+## Self-Sovereign Ecosystem
 
+<img width="786" height="330" alt="Image" src="https://github.com/user-attachments/assets/f2003d85-0023-478e-8e5c-b146c627445b" />
 
 ## EUDI Wallet Reference Implementation
 
@@ -45,5 +47,10 @@ EUDI 지갑 참조 구현은 다양한 비즈니스에서 재 사용할 수 있�
 
 ###### Signing Apps and Services
 * Trust Providr Signier
-  
-  
+
+
+
+
+## Usecase of EUDI Wallet
+
+<img width="658" height="384" alt="Image" src="https://github.com/user-attachments/assets/ab973f2a-2093-4f36-bae2-dba48bd2331c" />
