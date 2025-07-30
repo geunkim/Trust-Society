@@ -19,33 +19,34 @@ EUDI 지갑 참조 구현은 다양한 비즈니스에서 재 사용할 수 있�
 * Android: Wallet Core 
 * iOS: Wallet Kit
 
-##### Proximity Sharing Libraries
+##### **[Holder to Verifier]** Proximity Sharing Libraries  
 * mDoc Data Transfer
 * mDoc Security
 * mDoc Data Model
 
-##### Remote Presentaion Libraries
+##### **[Holder to Verifier]** Remote Presentaion Libraries  
 * Presentaiton Exchange
 * SOIPv2 & OpenID4VP prtocols
 * SD-JWT
 
-##### Issuing Libraries
+##### *[Issuser to Holder]** Issuing Libraries  *
 * OpenID4VCI
 
-##### Wallet Data Storage and Cryptographic Management Libraries
+##### **[Holder]** Wallet Data Storage and Cryptographic Management Libraries   
 * mDoc Document Storage
 
-##### Wallet UI and demo App
+#####  **[Holder]** Wallet UI and demo App  
 
-##### Verifier App and Services
+##### **[Verifier]** Verifier App and Services  
 * Web Verifier
 * Restful API (web-services)
 
-###### Issuing App and service
+###### **[Issuer]** Issuing App and service
 * OpenID4VCI Issuer(Python)
 * OpenID4VCI Issuer (Kotrin)
 
 ###### Signing Apps and Services
+
 * Trust Providr Signier
   - Trust Provider Signer는 서버 측 컴포넌트롤 EUDI Wallet 생태계에서 Trust List 및 관련 객체에 대한 서명 역할을 수행
   - 주요 기능
