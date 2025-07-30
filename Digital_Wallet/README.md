@@ -47,7 +47,7 @@ EUDI 지갑 참조 구현은 다양한 비즈니스에서 재 사용할 수 있�
 
 ###### Signing Apps and Services
 
-* Trust Providr Signier
+* Trust Provider Signier
   - Trust Provider Signer는 서버 측 컴포넌트롤 EUDI Wallet 생태계에서 Trust List 및 관련 객체에 대한 서명 역할을 수행
   - 주요 기능
     * Trust List에 대한 디지털 서명 생성
