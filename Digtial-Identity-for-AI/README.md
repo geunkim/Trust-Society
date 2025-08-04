@@ -1,4 +1,4 @@
-# The Forst Person Project
+# The First Person Project
 
 ## [Official Web Page](https://www.firstperson.network/)
 
