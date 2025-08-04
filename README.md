@@ -1,4 +1,4 @@
 # Trust Society
 
 
-## [Digital Identity in AI Environment](./Digital-Identity-for-AI/README.md)
+## [Digital Identity in AI Environment](https://github.com/geunkim/Trust-Society/tree/main/Digtial-Identity-for-AI)
