@@ -19,5 +19,5 @@
 
 ## DIF related Info
 ### [DIF Callendar](https://calendar.google.com/calendar/u/0/embed?src=decentralized.identity@gmail.com)
-### [DIF Meetings & Recordingshttps://airtable.com/app74DzqSxz4pywKl/shrfEVbPTHPi38yLr)
+### [DIF Meetings & Recordings](https://airtable.com/app74DzqSxz4pywKl/shrfEVbPTHPi38yLr)
 
